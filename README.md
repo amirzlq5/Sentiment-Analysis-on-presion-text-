@@ -13,13 +13,17 @@ We use FastText embeddings to create our feature matrix. The embeddings file tha
 
 ## Results
 
-* Loss Function
-* confusion matrix
-* Test Accuracy
 
-The result of the loss function, when applied to the training dataset.
+* The result of the loss function and test Accuracyet
 
 
-![Image of Yaktocat](https://github.com/khaniamir/Sentiment-Analysis-on-presion-text-/blob/master/Result/Result7/Train%20and%20Test.png)
+![Image of Yaktocat]()
+
+
+* The result of the confusion matrix
+![Image of Yaktocat]()
+
+![Image of Yaktocat]()
+
 
 
