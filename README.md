@@ -23,4 +23,4 @@ We use FastText embeddings to create our feature matrix. The embeddings file tha
 
 ![Image of Yaktocat](https://github.com/khaniamir/Sentiment-Analysis-on-presion-text-/blob/master/Result/Result7/confusion%20matrix1.png)
 
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="6" height="6" />
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://github.com/khaniamir/Sentiment-Analysis-on-presion-text-/blob/master/Result/Result7/confusion%20matrix1.png" width="6" height="6" />
