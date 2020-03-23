@@ -19,7 +19,8 @@ We use FastText embeddings to create our feature matrix. The embeddings file tha
 
 
 * The result of the confusion matrix
-![Image of Yaktocat]()
+![Image of Yaktocat](https://github.com/khaniamir/Sentiment-Analysis-on-presion-text-/blob/master/Result/Result7/confusion%20matrix1.png)
 
+![Image of Yaktocat](https://github.com/khaniamir/Sentiment-Analysis-on-presion-text-/blob/master/Result/Result7/confusion%20matrix1.png)
 
 
