@@ -21,7 +21,7 @@ We use FastText embeddings to create our feature matrix. The embeddings file tha
 * The result of the confusion matrix
 
 
-<img src="https://github.com/khaniamir/Sentiment-Analysis-on-presion-text-/blob/master/Result/Result7/confusion%20matrix2.png" width="600" height="300">
+<img src="https://github.com/khaniamir/Sentiment-Analysis-on-presion-text-/blob/master/Result/Result7/confusion%20matrix2.png" width="600" height="350"   align="middle">
 
 
-<img src="https://github.com/khaniamir/Sentiment-Analysis-on-presion-text-/blob/master/Result/Result7/confusion%20matrix1.png" width="600" height="300">
+<img src="https://github.com/khaniamir/Sentiment-Analysis-on-presion-text-/blob/master/Result/Result7/confusion%20matrix1.png" width="600" height="350" >
