@@ -1,2 +1,3 @@
 # Sentiment-Analysis-on-presion-text
-keras
+
+A Bidirectional RNN method for sentiment analysis in Persian language
