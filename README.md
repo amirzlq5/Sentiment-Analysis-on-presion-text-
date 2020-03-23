@@ -12,3 +12,7 @@ The data file is available in the dataset folder. If you download the dataset, y
 We use FastText embeddings to create our feature matrix. The embeddings file that can be downloaded from this [ Kaggle link](https://fasttext.cc/docs/en/crawl-vectors.html). 
 
 
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
