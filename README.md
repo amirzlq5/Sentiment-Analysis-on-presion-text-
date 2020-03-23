@@ -17,4 +17,7 @@ We use FastText embeddings to create our feature matrix. The embeddings file tha
 * confusion matrix
 * Test Accuracy
 
+The result of the loss function, when applied to the training dataset.
+![Image of Yaktocat]()
+
 
