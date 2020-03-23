@@ -15,14 +15,10 @@ We use FastText embeddings to create our feature matrix. The embeddings file tha
 
 
 * The result of the loss function and test Accuracyet
-
-
 ![Image of Yaktocat]()
 
 
 * The result of the confusion matrix
-![Image of Yaktocat]()
-
 ![Image of Yaktocat]()
 
 
