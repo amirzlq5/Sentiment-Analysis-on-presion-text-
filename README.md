@@ -18,6 +18,6 @@ We use FastText embeddings to create our feature matrix. The embeddings file tha
 * Test Accuracy
 
 The result of the loss function, when applied to the training dataset.
-![Image of Yaktocat]()
+![Image of Yaktocat](https://github.com/khaniamir/Sentiment-Analysis-on-presion-text-/blob/master/Result/Result7/loss.png)
 
 
