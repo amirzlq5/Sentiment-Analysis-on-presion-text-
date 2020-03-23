@@ -1,0 +1,5 @@
+batch_size_blstm = 4750
+epochs_blstm = 60
+optimizer='adam'
+metrics=[categorical_accuracy]
+kernel_regularizer=keras.regularizers.l2(l=0.1)
