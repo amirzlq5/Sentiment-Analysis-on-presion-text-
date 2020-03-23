@@ -16,7 +16,7 @@ We use FastText embeddings to create our feature matrix. The embeddings file tha
 
 * The result of the loss function and test Accuracyet
 ![Image of Yaktocat](https://github.com/khaniamir/Sentiment-Analysis-on-presion-text-/blob/master/Result/Result7/Train%20and%20Test.png)
-
+<img src="https://github.com/khaniamir/Sentiment-Analysis-on-presion-text-/blob/master/Result/Result7/Train%20and%20Test.png" alt="alt text" width="30" height="30">
 
 * The result of the confusion matrix
 ![Image of Yaktocat](https://github.com/khaniamir/Sentiment-Analysis-on-presion-text-/blob/master/Result/Result7/confusion%20matrix1.png)
