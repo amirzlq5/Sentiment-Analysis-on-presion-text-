@@ -26,4 +26,5 @@ We use FastText embeddings to create our feature matrix. The embeddings file tha
 
 <img src="https://github.com/khaniamir/Sentiment-Analysis-on-presion-text-/blob/master/Result/Result7/confusion%20matrix1.png" width="600" height="350" >
 
-
+## Google Colab Link
+I used colab for training. You can use [link](https://colab.research.google.com/drive/18piHgoUut-_TWKC9JTfASNxIS9BGKsnL?authuser=1#scrollTo=NSIPGYqHRsZC) to access the code at colab. And make the model stronger.
